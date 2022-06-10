@@ -4,13 +4,13 @@
  
  - **Conteúdos do curso:**
 
-    1- Fundamentos da estatística;
-    2- Plotagem de diferentes tipos de dados;
-    3- Covariância e Correlação;
-    4- Intervalos de confiança;
-    5- Tomadas de decisão orientadas por dados;
-    6- Análises de regressão;
-    7- Medidas de tendência central, assimetria e variabilidade;
-    8- Testes de hipóteses;
-    9- Mecanismos de análise de regressão;
+    1- Fundamentos da estatística; <br>
+    2- Plotagem de diferentes tipos de dados; <br>
+    3- Covariância e Correlação; <br>
+    4- Intervalos de confiança; <br>
+    5- Tomadas de decisão orientadas por dados; <br>
+    6- Análises de regressão; <br>
+    7- Medidas de tendência central, assimetria e variabilidade; <br>
+    8- Testes de hipóteses; <br>
+    9- Mecanismos de análise de regressão; <br>
     10- Usar e entender variáveis 'dummy'.
