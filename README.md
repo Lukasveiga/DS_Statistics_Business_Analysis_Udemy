@@ -2,7 +2,7 @@
 
  ### **Repositório destinado a publicação das atividades do curso de estatística para ciência de dados e análise de negócios**
  
- - **Conteúdo do curso:**
+ - **Conteúdos do curso:**
 
     1. Fundamentos da estatística;
     2. Plotagem de diferentes tipos de dados;
