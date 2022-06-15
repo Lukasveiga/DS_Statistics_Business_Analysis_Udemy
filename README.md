@@ -1,6 +1,6 @@
 ## **Statistics for Data Science and Business Analysis**
 
- ### **Repositório destinado a publicação das atividades do curso de estatística para ciência de dados e análise de negócios**
+ ### **Repositório destinado a publicação das atividades do curso de estatística para ciência de dados e análise de negócios.**
  
  - **Conteúdos do curso:**
 
